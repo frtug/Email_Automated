@@ -1,0 +1,4 @@
+Hello ${PERSON_NAME},
+
+We are launching our wesbite very soon
+so stay tunes for more updates
